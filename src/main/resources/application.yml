@@ -1,0 +1,9 @@
+jdbc:
+  host: localhost
+  port: 3306
+  database: pp_auth
+  username: root
+  password: my-secret-password
+
+server:
+  port: 28086
